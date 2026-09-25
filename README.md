@@ -1,4 +1,4 @@
-# EHS: Executable Hypermedia System
+# EHS: Executable Hypermedia System (WIP)
 
 A high-performance, minimalist web engine for personal publishing. Compiles Markdown content into a WebAssembly binary at build time, creating a **zero-allocation, heapless runtime** that executes hypertext with deterministic memory usage.
 
