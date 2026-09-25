@@ -1,0 +1,17 @@
+---
+
+title: "Os Espinhos do Inverno"
+date: "2026-09-07"
+description: "Uma adaptação da metáfora dos porcos-espinhos de Schopenhauer, reinterpretada de forma menos pessimista sobre como a proximidade entre pessoas inevitavelmente envolve pequenos incômodos, mas isso não torna a companhia indesejável, mas nos permite viver"
+
+---
+O bosque sempre foi um lugar quente e vivo, os animais viviam alegres e sorridentes, uns com suas famílias, outros sozinhos, mas todos tinham o calor do sol e o conforto da grama para descansar. Mas isso logo mudou, um vento gélido percorreu o bosque anunciando que o inverno estava chegando, um como nunca antes visto.
+Todos os animais correram para as suas casas. Os esquilos se amontoaram em pilhas de pelo macio, um em cima do outro, fazendo uma travesseiro macio com suas largas bochechas para os seus amigos.
+Os guaxinins dividiam buracos apertados, corpo contra corpo, e puderam dormir o inverno inteiro quase sem sentir o frio.
+Até os pardais, que mal tinham penas para se proteger, se espremiam em bandos dentro do tronco oco de um pinheiro caído e se mantinham vivos com o calor das asas um dos outros, como uma coberta de pena sem fim.
+Os porcos-espinhos tiveram uma dificuldade um pouco maior. Toda vez que se aninhavam, espetavam uns aos outros. Na primeira noite, o frio era pouco e cada um dormia num canto, sozinho e tentando se enrolar no próprio calor. Na noite seguinte, o pouco calor que eles conseguiam manter, fora roubado pelo vento, que entrava nas tocas como um ladrão. Um dos porcos espinhos, com a toca maior, chamou os outros para ficarem com ele, pois assim poderiam se aquecer como os outros animais da floresta.
+Um a um, os porquinhos-espinhos desafiaram o sopro cálido da noite, ele urrava como um lobo faminto e transpassava a pele dos porcos-espinhos como facas de gelo. Conta-se que alguns quase que não conseguiram chegar até a toca do amigo, pois na manhã seguinte encontraram um dos mais jovens encolhido na entrada da toca, duro de frio e sem forças para se mexer, teve que ser carregado para dentro da casa.
+Na noite seguinte, todos já reúnidos, tentaram se aproximar como os outros animais, mas os espinhos de um cravavam no lombo do outro e, no instinto de se proteger, logo se afastavam. O vento ladrão, aproveitava esse espaço e logo roubava o pouco calor produzido.Alguns porquinhos-espinhos pensaram em voltar para suas casas, pois eram cutucados com os espinhos dos amigos, mas o frio lá fora doía mais que os espinhos alí dentro.
+Na luta por encontrar uma posição para se aquecer, eles perceberam que os espinhos não cortavam como o vento uivante e nem perfuravam tanto, eles apenas incomodavam. A noite avançou e o frio se intensificou, mas os porquinhos-espinhos decidiram ficar juntos, se aquecendo apesar dos incômodos e puderam dormir em segurança a noite inteira.
+Ao amanhecer, o frio que rondava as tocas como um lobo faminto já havia passado, o sol aquecia o chão e os porcos-espinhos puderam ver como estavam, todos vivos. Alguns estavam machucados, mas os outros ajudaram a tratar as feridas. Ao anoitecer, todos voltaram para a toca e se aninharam novamente, se aquecendo para suportar o frio, pois era apenas suportanto os espinhos que eles puderam fazer isso.
+O longo e cruel inverno passou, as feridas passaram e os porquinhos-espinhos aprenderam que suportando o espinho do outro que encontraram o calor e a companhia que os permitiu sobreviver a uma vida fria e cruel.

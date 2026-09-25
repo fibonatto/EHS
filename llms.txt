@@ -16,29 +16,15 @@ It contains static HTML pages with the complete text of each post.
 
 - [Provérbios 1](https://fibonatto.github.io/cli/post/proverbios1.html): O Pai que ensina antes do erro
 
-- [Os Espinhos do Inverno](https://fibonatto.github.io/cli/post/espinhos_no_inverno.html): Uma adaptação da metáfora dos porcos-espinhos de Schopenhauer, reinterpretada de forma menos pessimista sobre como a proximidade entre pessoas inevitavelmente envolve pequenos incômodos, mas isso não torna a companhia indesejável, mas nos permite viver
-
 - [A velocidade da luz e a ilusão da inteligência infinita](https://fibonatto.github.io/cli/post/ORDO.html): por que precisamos de arquitetura, não de modelos maiores
 
 - [Context as a Risk Variable](https://fibonatto.github.io/cli/post/context_as_a_risk_variable.html): A mathematical formulation for why more context does not imply more reliability in systems with LLMs
-
-- [Uma reflexão sobre ciência e humildade](https://fibonatto.github.io/cli/post/uma_reflexao_sobre_ciencia_e_humildade.html): Uma breve reflexão sobre a arrogância acadêmica de engenheiros, programadores e universitários no geral e o contraste com matemáticos avançados
-
-- [Tipos dependentes e programas que carregam provas](https://fibonatto.github.io/cli/post/tipos_dependentes_e_programas_que_carregam_provas.html): Uma breve explicação sobre tipos dependentes e provas formais
 
 - [Your Terminal Can Be Much More Productive, Beautiful, and User-Friendly!](https://fibonatto.github.io/cli/post/terminal.html): Still using a heavy framework or a stock shell? You're leaving performance on the table. Learn how to evolve your workflow to a professional-grade setup using Antidote, custom Zsh logic, and high-performance tools.
 
 - [Agorismo](https://fibonatto.github.io/cli/post/agorismo.html): Uma breve apresentação sobre minha ideologia política, o agorismo.
 
 - [Ceticismo tecnologico](https://fibonatto.github.io/cli/post/ceticismo-tecnologico.html): Confiar cegamente nunca foi uma boa prática na vída política e nem relogiosa, por que seria na tecnológica? Manter um ceticismo sobre as maravilhas das IAs é um passo excencial para um desenvolvimento de qualidade
-
-- [A tirania e sua máscara de bondade](https://fibonatto.github.io/cli/post/a-tirania-e-sua-mascara-de-bondade.html): Regimes tirânicos costumam usar a defesa do bem para impor sua opressão, por isso devemos sempre ficar atentos a qualquer sinal de perda de liberdade
-
-- [A bíblia e o argumento circular](https://fibonatto.github.io/cli/post/a-bíblia-e-o-argumento-circular.html): Uma Defesa sobre o uso da bíblia como princípio primeiro e como é impossível gerar informação sem a adoção de axiomas
-
-- [DeepFake e a desmanização na época das IAs](https://fibonatto.github.io/cli/post/deepfake-e-a-desmanização.html): Uma reflexão sobre o uso de IA para a produção e divulgação de pornografia
-
-- [O Estado Como Motor da Economia: Uma Falácia Sustentada pela Tecnologia Descentralizada](https://fibonatto.github.io/cli/post/O-Estado-Como-Motor-da-Economia.html): Uma análise crítica sobre o mito da necessidade estatal na economia, explorando como a tecnologia descentralizada e as criptomoedas demonstram que o monopólio do estado é apenas contingente, não essencial.
 
 - [Minha Noite Estrelada](https://fibonatto.github.io/cli/post/minha-noite-estrelada.html): Um poema que celebra o encontro apaixonado entre o dia e a noite, onde o amor e a paixão queimam no horizonte em labaredas que consomem o tempo.
 
