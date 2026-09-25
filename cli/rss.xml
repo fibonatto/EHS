@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Bonatto</title>
+    <link>https://fibonatto.github.io/cli/</link>
+    <description>CLI version of Bonatto's blog.</description>
+    <language>en</language>
+
+    <item>
+      <title>My Worflow (2026)</title>
+      <link>https://fibonatto.github.io/cli/post/workflow.html</link>
+      <guid isPermaLink="true">https://fibonatto.github.io/cli/post/workflow.html</guid>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 -0300</pubDate>
+      <description>This is my workflow draft apresentation</description>
+    </item>
+
+    <item>
+      <title>Provérbios 1</title>
+      <link>https://fibonatto.github.io/cli/post/proverbios1.html</link>
+      <guid isPermaLink="true">https://fibonatto.github.io/cli/post/proverbios1.html</guid>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 -0300</pubDate>
+      <description>O Pai que ensina antes do erro</description>
+    </item>
+
+    <item>
+      <title>Os Espinhos do Inverno</title>
+      <link>https://fibonatto.github.io/cli/post/espinhos_no_inverno.html</link>
+      <guid isPermaLink="true">https://fibonatto.github.io/cli/post/espinhos_no_inverno.html</guid>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 -0300</pubDate>
+      <description>Uma adaptação da metáfora dos porcos-espinhos de Schopenhauer, reinterpretada de forma menos pessimista sobre como a proximidade entre pessoas inevitavelmente envolve pequenos incômodos, mas isso não torna a companhia indesejável, mas nos permite viver</description>
+    </item>
+
+    <item>
+      <title>A velocidade da luz e a ilusão da inteligência infinita</title>
+      <link>https://fibonatto.github.io/cli/post/ORDO.html</link>
+      <guid isPermaLink="true">https://fibonatto.github.io/cli/post/ORDO.html</guid>
+      <pubDate>Tue, 11 Aug 2026 00:00:00 -0300</pubDate>
+      <description>por que precisamos de arquitetura, não de modelos maiores</description>
+    </item>
+
+    <item>
+      <title>Context as a Risk Variable</title>
+      <link>https://fibonatto.github.io/cli/post/context_as_a_risk_variable.html</link>
+      <guid isPermaLink="true">https://fibonatto.github.io/cli/post/context_as_a_risk_variable.html</guid>
+      <pubDate>Thu, 14 May 2026 00:00:00 -0300</pubDate>
+      <description>A mathematical formulation for why more context does not imply more reliability in systems with LLMs</description>
+    </item>
+
+    <item>
+      <title>Uma reflexão sobre ciência e humildade</title>
+      <link>https://fibonatto.github.io/cli/post/uma_reflexao_sobre_ciencia_e_humildade.html</link>
+      <guid isPermaLink="true">https://fibonatto.github.io/cli/post/uma_reflexao_sobre_ciencia_e_humildade.html</guid>
+      <pubDate>Sat, 04 Apr 2026 00:00:00 -0300</pubDate>
+      <description>Uma breve reflexão sobre a arrogância acadêmica de engenheiros, programadores e universitários no geral e o contraste com matemáticos avançados</description>
+    </item>
+
+    <item>
+      <title>Tipos dependentes e programas que carregam provas</title>
+      <link>https://fibonatto.github.io/cli/post/tipos_dependentes_e_programas_que_carregam_provas.html</link>
+      <guid isPermaLink="true">https://fibonatto.github.io/cli/post/tipos_dependentes_e_programas_que_carregam_provas.html</guid>
+      <pubDate>Fri, 03 Apr 2026 00:00:00 -0300</pubDate>
+      <description>Uma breve explicação sobre tipos dependentes e provas formais</description>
+    </item>
+
+    <item>
+      <title>Your Terminal Can Be Much More Productive, Beautiful, and User-Friendly!</title>
+      <link>https://fibonatto.github.io/cli/post/terminal.html</link>
+      <guid isPermaLink="true">https://fibonatto.github.io/cli/post/terminal.html</guid>
+      <pubDate>Mon, 23 Mar 2026 00:00:00 -0300</pubDate>
+      <description>Still using a heavy framework or a stock shell? You're leaving performance on the table. Learn how to evolve your workflow to a professional-grade setup using Antidote, custom Zsh logic, and high-performance tools.</description>
+    </item>
+
+    <item>
+      <title>Agorismo</title>
+      <link>https://fibonatto.github.io/cli/post/agorismo.html</link>
+      <guid isPermaLink="true">https://fibonatto.github.io/cli/post/agorismo.html</guid>
+      <pubDate>Tue, 17 Mar 2026 00:00:00 -0300</pubDate>
+      <description>Uma breve apresentação sobre minha ideologia política, o agorismo.</description>
+    </item>
+
+    <item>
+      <title>Ceticismo tecnologico</title>
+      <link>https://fibonatto.github.io/cli/post/ceticismo-tecnologico.html</link>
+      <guid isPermaLink="true">https://fibonatto.github.io/cli/post/ceticismo-tecnologico.html</guid>
+      <pubDate>Sat, 14 Mar 2026 00:00:00 -0300</pubDate>
+      <description>Confiar cegamente nunca foi uma boa prática na vída política e nem relogiosa, por que seria na tecnológica? Manter um ceticismo sobre as maravilhas das IAs é um passo excencial para um desenvolvimento de qualidade</description>
+    </item>
+
+    <item>
+      <title>A tirania e sua máscara de bondade</title>
+      <link>https://fibonatto.github.io/cli/post/a-tirania-e-sua-mascara-de-bondade.html</link>
+      <guid isPermaLink="true">https://fibonatto.github.io/cli/post/a-tirania-e-sua-mascara-de-bondade.html</guid>
+      <pubDate>Mon, 09 Mar 2026 00:00:00 -0300</pubDate>
+      <description>Regimes tirânicos costumam usar a defesa do bem para impor sua opressão, por isso devemos sempre ficar atentos a qualquer sinal de perda de liberdade</description>
+    </item>
+
+    <item>
+      <title>A bíblia e o argumento circular</title>
+      <link>https://fibonatto.github.io/cli/post/a-bíblia-e-o-argumento-circular.html</link>
+      <guid isPermaLink="true">https://fibonatto.github.io/cli/post/a-bíblia-e-o-argumento-circular.html</guid>
+      <pubDate>Wed, 04 Mar 2026 00:00:00 -0300</pubDate>
+      <description>Uma Defesa sobre o uso da bíblia como princípio primeiro e como é impossível gerar informação sem a adoção de axiomas</description>
+    </item>
+
+    <item>
+      <title>DeepFake e a desmanização na época das IAs</title>
+      <link>https://fibonatto.github.io/cli/post/deepfake-e-a-desmanização.html</link>
+      <guid isPermaLink="true">https://fibonatto.github.io/cli/post/deepfake-e-a-desmanização.html</guid>
+      <pubDate>Fri, 02 Jan 2026 00:00:00 -0300</pubDate>
+      <description>Uma reflexão sobre o uso de IA para a produção e divulgação de pornografia</description>
+    </item>
+
+    <item>
+      <title>O Estado Como Motor da Economia: Uma Falácia Sustentada pela Tecnologia Descentralizada</title>
+      <link>https://fibonatto.github.io/cli/post/O-Estado-Como-Motor-da-Economia.html</link>
+      <guid isPermaLink="true">https://fibonatto.github.io/cli/post/O-Estado-Como-Motor-da-Economia.html</guid>
+      <pubDate>Tue, 30 Dec 2025 00:00:00 -0300</pubDate>
+      <description>Uma análise crítica sobre o mito da necessidade estatal na economia, explorando como a tecnologia descentralizada e as criptomoedas demonstram que o monopólio do estado é apenas contingente, não essencial.</description>
+    </item>
+
+    <item>
+      <title>Minha Noite Estrelada</title>
+      <link>https://fibonatto.github.io/cli/post/minha-noite-estrelada.html</link>
+      <guid isPermaLink="true">https://fibonatto.github.io/cli/post/minha-noite-estrelada.html</guid>
+      <pubDate>Tue, 09 Dec 2025 00:00:00 -0300</pubDate>
+      <description>Um poema que celebra o encontro apaixonado entre o dia e a noite, onde o amor e a paixão queimam no horizonte em labaredas que consomem o tempo.</description>
+    </item>
+
+    <item>
+      <title>Criação Evolutiva pela Providência Divina - 1</title>
+      <link>https://fibonatto.github.io/cli/post/Criacionismo-Evolutivo-1.html</link>
+      <guid isPermaLink="true">https://fibonatto.github.io/cli/post/Criacionismo-Evolutivo-1.html</guid>
+      <pubDate>Fri, 05 Sep 2025 00:00:00 -0300</pubDate>
+      <description>Uma Defesa Ortodoxa da Harmonia entre Revelação Especial e Geral. Questão 1: Como entender a existência da morte antes do pecado de Adão?</description>
+    </item>
+
+  </channel>
+</rss>
