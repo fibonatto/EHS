@@ -2,54 +2,16 @@
   "files": [
     "buffer.plist",
     "build.sh",
-    "compile_commands.json",
+    "cli_post.sh",
     "compile_flags.txt",
     "config.plist",
-    "favicon.svg",
-    "favicon2.svg",
-    "google0d6f4c8219a52398.html",
-    "heart.c",
-    "index.html",
     "index.template.html",
     "README.md",
-    "robots.txt",
-    "site.json",
-    "sitemap.xml",
-    "tags"
+    "site.json"
   ],
   "contents": {
     "files": [
-      "a-bíblia-e-o-argumento-circular.md",
-      "a-tirania-e-sua-mascara-de-bondade.md",
-      "agorismo.md",
-      "ceticismo-tecnologico.md",
-      "context_as_a_risk_variable.md",
-      "Criacionismo-Evolutivo-1.md",
-      "deepfake-e-a-desmanização.md",
-      "espinhos_no_inverno.md",
-      "minha-noite-estrelada.md",
-      "O-Estado-Como-Motor-da-Economia.md",
-      "ORDO.md",
-      "proverbios1.md",
-      "terminal.md",
-      "tipos_dependentes_e_programas_que_carregam_provas.md",
-      "uma_reflexao_sobre_ciencia_e_humildade.md",
-      "workflow.md"
-    ],
-    "archive": {
-      "files": []
-    },
-    "quick": {
-      "files": []
-    },
-    "trash": {
-      "files": []
-    }
-  },
-  "generated": {
-    "files": [
-      "assets.h",
-      "contents_data.h"
+      "post1.md"
     ]
   },
   "include": {
